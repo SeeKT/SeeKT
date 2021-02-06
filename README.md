@@ -1,4 +1,7 @@
-### Hi there 👋
+# Kosuke Toda (@SeeKT)
+Master's student at Osaka University
+- 🔭 Interest: Game theory, Nonlinear systems, Statistics, and Blockchain 
+- 🌱 Studying: Optimization, Regression
 
 <!--
 **SeeKT/SeeKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
