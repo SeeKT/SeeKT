@@ -1,4 +1,4 @@
-# Kosuke Toda (@SeeKT)
+# K.Toda (@SeeKT)
 Master's student at Osaka University
 - 🔭 Interest: Game theory, Nonlinear systems, Statistics, and Blockchain 
 - 🌱 Studying: Optimization, Regression
