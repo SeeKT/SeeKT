@@ -1,7 +1,6 @@
 # K.Toda (@SeeKT)
-Master's student at Osaka University
-- 🔭 Interest: Game theory, Nonlinear systems, Statistics, and Blockchain 
-- 🌱 Studying: Optimization, Regression
+Joining in R&D team.
+- 🔭 Interest: Security
 
 <!--
 **SeeKT/SeeKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
