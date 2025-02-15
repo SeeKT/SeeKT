@@ -2,6 +2,8 @@
 Joining in R&D team.
 - 🔭 Interest: Security
 
+An article introducing my research is posted on the company's website ([JP](https://www.global.toshiba/jp/technology/corporate/rdc/recruit/researchers/toda.html) / [EN](https://www.global.toshiba/ww/technology/corporate/rdc/rd/researchers/toda.html)).
+
 <!--
 **SeeKT/SeeKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
