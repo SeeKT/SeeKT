@@ -1,4 +1,4 @@
-# Kosuke Toda (@SeeKT)
+# ktod4ts (@SeeKT)
 Joining in R&D team.
 - 🔭 Interest: Security
 
